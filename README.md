@@ -7,7 +7,7 @@ Quantum walks have become a fundamental tool in the field of Quantum Computing. 
 classical random walks, the class of graphs over which quantum walks may be performed is severely
 restricted by the condition of unitarity.
 
-After reviewing the general construction of quantum walks, this thesis investigates their limits,
+After reviewing the general construction of quantum walks, the thesis investigates their limits,
 exploring the properties that characterize the directed graphs over which they may be performed. The
 analysis is also conducted with respect to coined quantum walks, a generalization of quantum walks. In
 this regard, the underlying graph of a coined quantum walk on a regular graph is known to be the line
